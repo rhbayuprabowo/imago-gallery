@@ -1,0 +1,12 @@
+.card-columns .card {
+   margin-bottom: 1.25rem;
+}
+
+.bg-dark {
+   background: #a8e6cf !important;
+}
+
+.jumbotron {
+   margin-top: 2rem;
+   background: #fff !important;
+}

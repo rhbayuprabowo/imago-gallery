@@ -1,6 +1,6 @@
 # Imago Gallery
 
-This project is a simple todo-list project
+This project is a simple image gallery using bootstrap technology.
 
 ## Motivation
 
